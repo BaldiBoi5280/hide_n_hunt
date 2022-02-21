@@ -1,5 +1,5 @@
-# hide_n_hunt
-A hide and hunt game for minetest
+# Hide 'n' Hunt
+A hide and hunt game for Minetest.
 
 Minetest: https://www.minetest.net/
 
